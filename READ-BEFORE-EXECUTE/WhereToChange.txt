@@ -1,0 +1,27 @@
+============================================================
+
+1) java resources > src > com.adpoint.dao > jdbcConn.java > 
+				change your mysql host/user/password
+				
+				
+				
+
+2) java resources > src > com.adpoint.servlet > AgencyPostAd.java
+
+			String savepath="C:\\Users\\wapka\\eclipse-workspace
+			\\ADPOINT\\WebContent/image"+File.separator+filename;
+			
+			
+			according to your eclipse location.....dont change anything else....
+			change only upto eclipse workspace nothing else
+			
+			
+			
+			
+			
+	
+			
+3) contact us might not work.because of some exception
+
+===============================================================
+					

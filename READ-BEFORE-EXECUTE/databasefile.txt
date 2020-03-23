@@ -1,0 +1,9 @@
+===========================================================================
+
+1) first download/copy adpointscript.sql 
+
+2) Then simply execute it in mysql workbench/cmd
+
+3) Script is written in MYSQL only. you can write according to any database 
+
+=============================================================================

@@ -1,0 +1,6 @@
+================================================================
+
+DO NOT INSTALL TOMCAT......JUST DOWNLOAD ZIP FILE AND EXTRACT
+AND PROVIDE LOCATION OF THAT EXTRACTED FOLDER
+
+================================================================
